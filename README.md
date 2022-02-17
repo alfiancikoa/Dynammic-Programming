@@ -5,6 +5,8 @@ Fibo ke-n = Fibo(n-1) + Fibo(n-2)
 syarat:
  - Fibo ke 0 -> 0
  - Fibo ke 1 dan ke 2 -> 1
+
+<br>
 Contoh di atas merupakan contoh penerapan dynamic Programming dengan pencrian bilangan fibonacci ke-n
 <br>
 1. Ketika bilangan sudah dihitung, maka hasilnya ditaruh ke dalam memoize/chace sehingga kita tidak perlu menghitung dari awal
