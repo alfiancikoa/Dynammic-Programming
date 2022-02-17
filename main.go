@@ -2,6 +2,7 @@ package main
 
 import "fmt"
 
+// memoize the fibonacci number when we have find the solution
 var memo map[int]int = map[int]int{}
 
 func Fibonacci(n int) int {
