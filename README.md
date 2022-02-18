@@ -12,7 +12,7 @@ syarat:
  - Fibo ke 1 dan ke 2 -> 1
 
 <br>
-Contoh di atas merupakan contoh penerapan dynamic Programming dengan pencrian bilangan fibonacci ke-n
+Contoh di atas merupakan contoh penerapan dynamic Programming dengan pencrian bilangan fibonacci ke-n, dengan menggunakan pendekatan rekursif 
 <br>
 
 1. Ketika bilangan sudah dihitung, maka hasilnya ditaruh ke dalam memoize/chace sehingga kita tidak perlu menghitung dari awal
