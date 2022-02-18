@@ -19,3 +19,4 @@ Contoh di atas merupakan contoh penerapan dynamic Programming dengan pencrian bi
 2. Sebelum melakukan proses perhitungan, nilai fibonacci ke-n dicek dulu apakah sudah disimpan atau beum
 3. Jika sudah disimpan, maka langsung return hasilnya
 4. Jika belum, maka lakukan proses perhitungan bilangan fibonacci
+5. Setelah didapatkan hasil perhitungan, maka akan disimpan ke dalam memoize
