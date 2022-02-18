@@ -11,3 +11,11 @@ func Test_Fibonacci(t *testing.T) {
 	output := Fibonacci(input)
 	assert.Equal(t, 55, output, "Expected 55")
 }
+
+// go test -v -cover
+
+func BenchmarkFibo(b *testing.B) {
+	Fibonacci(100)
+}
+
+// go test -bench=.
