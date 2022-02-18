@@ -1,6 +1,15 @@
 # Dynamic-Programming
 
 Program Dinamis (Dynamic Program) merupakan metode pemecahan masalah dengan cara menguaraikan solusi menjadi sekumpulan langkah (step) atau tahapan (stage) sedemikian sehingga solusi dari persoalan dapat dipandang dari serangkaian keputusan yang saling berkaitan. Pada program dinamis, rankaian keputusan yang optimal dibuat dengan menggunakan prinsip optimalisasi
+<br>
+
+5 easy steps to DP (Dynamic Program):
+<br>
+1. Define subproblems
+2. Guests (part of solution)
+3. Relate subproblems solutions
+4. Recursive & Memoize or build DP table bottom-up
+5. Solve original problem
 
 Dynamic Programming Example
 
