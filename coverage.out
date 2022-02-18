@@ -1,0 +1,7 @@
+mode: set
+dynprog/main.go:8.27,9.17 1 1
+dynprog/main.go:14.2,15.16 2 1
+dynprog/main.go:9.17,11.3 1 1
+dynprog/main.go:11.8,11.29 1 1
+dynprog/main.go:11.29,13.3 1 1
+dynprog/main.go:18.13,22.2 3 0
