@@ -1,4 +1,7 @@
 # Dynamic-Programming
+
+Program Dinamis (Dynamic Program) merupakan metode pemecahan masalah dengan cara menguaraikan solusi menjadi sekumpulan langkah (step) atau tahapan (stage) sedemikian sehingga solusi dari persoalan dapat dipandang dari serangkaian keputusan yang saling berkaitan. Pada program dinamis, rankaian keputusan yang optimal dibuat dengan menggunakan prinsip optimalisasi
+
 Dynamic Programming Example
 
 Fibo ke-n = Fibo(n-1) + Fibo(n-2)
