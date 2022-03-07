@@ -4,15 +4,12 @@
 
 <b>5 easy steps to DP (Dynamic Program):</b>
 
-<br>
-
 1. Define subproblems
 3. Guests (part of solution)
 4. Relate subproblems solutions
 5. Recursive & Memoize or build DP table bottom-up
 6. Solve original problem
 
-<br>
 
 #### Dynamic Programming Example
 
