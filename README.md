@@ -11,7 +11,7 @@
 4. Recursive & Memoize or build DP table bottom-up
 5. Solve original problem
 
-### Dynamic Programming Example
+#### Dynamic Programming Example
 
 Fibo ke-n = Fibo(n-1) + Fibo(n-2)
 <br>
